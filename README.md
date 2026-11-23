@@ -4,10 +4,10 @@ Animations of the individual project for *Design and Manufacturing Based on Asse
 All of them were made inside CATIA V5 with the real 3D parts of the box.
 
 ## ▶ How it opens
-![How TRIPTYCH opens](TRIPTYCH_how_it_opens.gif)
+![How TRIPTYCH opens](TRIPTYCH-how-it-opens.gif)
 
 ## ▶ How it is assembled
-![How TRIPTYCH is assembled](TRIPTYCH_assembly.gif)
+![How TRIPTYCH is assembled](TRIPTYCH-assembly.gif)
 
 ## ▶ Where every part comes from
-![From the boards to the parts](TRIPTYCH_from_board_to_parts.gif)
+![From the boards to the parts](TRIPTYCH-from-board-to-parts.gif)
