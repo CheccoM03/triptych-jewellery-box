@@ -11,3 +11,6 @@ All of them were made inside CATIA V5 with the real 3D parts of the box.
 
 ## ▶ Where every part comes from
 ![From the boards to the parts](TRIPTYCH-from-board-to-parts.gif)
+
+## Direct manufacturing cost
+[JB_Cost_estimate.xlsx](JB_Cost_estimate.xlsx): materials with yields, purchased parts, operations and times (series of 500/year, batches of 50). Rates, prices and times are estimates; sources in the report bibliography.
